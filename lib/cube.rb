@@ -23,7 +23,7 @@ class Cube
 		count
 	end
 	
-	def list_duplicates
+	def list_duplicates(filename = DeckListName)
 		duplicate_list = []
 		File.open(filename, 'r') do |file|
 			file.each_line do |file_line|
