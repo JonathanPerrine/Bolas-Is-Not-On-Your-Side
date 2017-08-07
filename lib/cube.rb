@@ -22,6 +22,17 @@ class Cube
 		end
 		count
 	end
+	
+	def list_duplicates
+		duplicate_list = []
+		File.open(filename, 'r') do |file|
+			file.each_line do |file_line|
+				duplicate_list.push file_line unless file_line[/\d+/].to_i == 1
+			end
+		end
+		duplicate.push 'No duplicates found.' if duplicate_list.empty?
+		duplicate_list.join("\n")
+	end
 
 
 end
