@@ -15,7 +15,12 @@ class Cube
 
 	def count_cards(filename = DeckListName)
 		count = 0
-		File.open(filename) {|f| count = f.read.count("\n")}
+		File.open(filename, 'r') do |file|
+			file.each_line do |file_line|
+				count += file_line[/\d+/].to_i
+			end
+		end
+		count
 	end
 
 
