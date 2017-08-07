@@ -13,10 +13,21 @@ Dessication
 
 
 Mechanics:
++1/+1 and -1/-1 Counters
+Afflict
+Cycling
+Embalm
+Eternalize
+Exhert
+Exile
+Zombies
+Tap / Untap effects
 
-Goals: 
-Construction: 360 Card Singleton cube with color balance & Rough theme
-60 of each Color, 30 nonbasic lands, 30 Artifacts.
+
+Construction: 
+Size: 360 Card 
+Singleton: One copy of each card
+Colors: 60 of each Color, 30 nonbasic lands, 30 Artifacts.
 
 Resources:
 
