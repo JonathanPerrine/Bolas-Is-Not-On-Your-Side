@@ -31,7 +31,7 @@ class Cube
 			end
 		end
 		duplicate.push 'No duplicates found.' if duplicate_list.empty?
-		duplicate_list.join("\n")
+		duplicate_list.join
 	end
 
 
