@@ -5,4 +5,5 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "rake"
 gem "rspec"
-
+gem 'mtg_sdk'
+gem 'deep_merge'
