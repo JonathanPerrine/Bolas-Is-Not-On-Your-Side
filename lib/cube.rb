@@ -61,9 +61,6 @@ class Cube
 	def count_color(color)
 		color_count = 0
 		@decklist.each do |key, value|
-			puts value 
-			puts value[:color].downcase
-			puts color
 			color_count += value[:count].to_i if value[:color].downcase == color.downcase
 		end
 		color_count.to_i
