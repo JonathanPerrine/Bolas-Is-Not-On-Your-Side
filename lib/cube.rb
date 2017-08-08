@@ -1,5 +1,6 @@
 require "mtg_sdk"
 require 'json'
+require 'deep_merge'
 
 class Cube
 
@@ -27,7 +28,7 @@ class Cube
 			end
 		end
 
-		card_list_hash.merge(card_detail_hash)
+		card_list_hash = card_list_hash.deep_merge(card_detail_hash)
 
 		## Collect info from API
 
@@ -60,7 +61,10 @@ class Cube
 	def count_color(color)
 		color_count = 0
 		@decklist.each do |key, value|
-			color_count += value[:count].to_i if value[:color].to_s.eql? color.to_s
+			puts value 
+			puts value[:color].downcase
+			puts color
+			color_count += value[:count].to_i if value[:color].downcase == color.downcase
 		end
 		color_count.to_i
 	end
