@@ -21,5 +21,6 @@ describe MeteredCube do
       expect(@metered_cube.measure_color_balance).to eq({ "White" => -5, "Blue" => 10, "Black" => 0, "Red" => 20, "Green" => 0, "Colorless" => 0})
       expect(@metered_cube.measure_color_balance_total).to eq(30)
     end
+  end
   
 end
