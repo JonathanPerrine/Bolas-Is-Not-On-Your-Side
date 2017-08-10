@@ -2,9 +2,8 @@ require 'spec_helper'
 require 'cube'
 
 describe Cube do
-	before :each do
-	    @cube = Cube.new
-	    @cube.load_decklist_from_text("test_cardlist.txt")
+	before :all do
+	    @cube = Cube.new("test_cardlist.txt")
 	end
 
 	describe "#new" do
@@ -24,4 +23,6 @@ describe Cube do
 	it "Should contain 60 green cards" do
 		expect(@cube.count_color('Green')).to eq (60)
 	end
+
+	#TODO: Test for leading card numbers in card list
 end

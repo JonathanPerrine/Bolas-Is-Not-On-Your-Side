@@ -7,7 +7,11 @@ class Cube
 	DefaultCardListName = "cardlist.txt"
 	@decklist
 
-	def load_decklist_from_text (filename = DefaultCardListName)
+	def initialize(filename = DefaultCardListName)
+		load_decklist_from_text(filename)
+	end
+
+	def load_decklist_from_text (filename)
 		card_array = []
 		cardlist = File.open(filename, "r").read
 
