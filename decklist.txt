@@ -178,7 +178,7 @@
 2 River Serpent
 2 Ruin Rat
 1 Ruthless Sniper
-3 Sacred Cat
+1 Sacred Cat
 3 Sandblast
 1 Sandwurm Convergence
 1 Saving Grace
