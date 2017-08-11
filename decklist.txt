@@ -45,6 +45,7 @@
 1 Cradle of the Accursed
 3 Crash Through
 1 Crypt of the Eternals
+1 Cunning Survivor
 2 Curator of Mysteries
 3 Cursed Minotaur
 1 Dagger of the Worthy
@@ -177,12 +178,13 @@
 2 River Serpent
 2 Ruin Rat
 1 Ruthless Sniper
-3 Sacred Cat
+1 Sacred Cat
 3 Sandblast
 1 Sandwurm Convergence
 1 Saving Grace
 1 Scaled Behemoth
 2 Scarab Feast
+1 Scouring Sands
 3 Scribe of the Mindful
 3 Scrounger of Souls
 2 Seer of the Last Tomorrow
