@@ -24,5 +24,12 @@ describe Cube do
 		expect(@cube.count_color('Green')).to eq (60)
 	end
 
+	it "Should identify gold and colorless cards" do
+		expect(@cube.map_colors(["Green"])).to eq "Green"
+		expect(@cube.map_colors(["Green", "Red"])).to eq "Gold"
+		expect(@cube.map_colors(nil)).to eq "Colorless"
+		expect(@cube.map_colors([])).to eq "Colorless"
+	end
+
 	#TODO: Test for leading card numbers in card list
 end
