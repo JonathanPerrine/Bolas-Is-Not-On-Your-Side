@@ -7,3 +7,4 @@ gem "rake"
 gem "rspec"
 gem 'mtg_sdk'
 gem 'deep_merge'
+gem 'pry'

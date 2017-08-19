@@ -44,7 +44,6 @@ class MeteredCube
 			color_deltas[color] = @colors_actual[color].to_i - @color_targets[color].to_i
 		end
 		color_deltas["Total"] = color_deltas.values.reduce(0, :+)
-		binding.pry
 		color_deltas
 	end
 
