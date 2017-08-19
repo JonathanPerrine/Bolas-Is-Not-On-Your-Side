@@ -3,6 +3,7 @@ require 'json'
 require 'deep_merge'
 
 class Cube
+	attr_accessor :card_detail_hash
 
 	DefaultCardListName = "cardlist.txt"
 	@card_color_hash
@@ -83,7 +84,7 @@ class Cube
 			duplicate_list.push value[:count].to_s +  ' ' + key + '\n' if value[:count].to_i > 1
 		end
 
-		duplicate.push 'No duplicates found.' if duplicate_list.empty?
+		duplicate_list.push 'No duplicates found.' if duplicate_list.empty?
 		duplicate_list.join
 	end
 

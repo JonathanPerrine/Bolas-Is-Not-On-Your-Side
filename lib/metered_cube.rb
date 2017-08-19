@@ -2,18 +2,20 @@ require "mtg_sdk"
 require 'json'
 require 'deep_merge'
 require_relative 'cube'
+require 'pry'
 
 class MeteredCube
+
+	attr_accessor :cube
 
 	DefaultCardListName = "cardlist.txt"
 
 	@cube
-	@color_targets = {"White" => 60, "Blue" => 60, "Black" => 60, "Red" => 60, "Green" => 60, "Colorless" => 60}
+	@color_targets = {"White" => 60, "Blue" => 60, "Black" => 60, "Red" => 60, "Green" => 60, "Gold" => 30, "Colorless" => 30}
 	@colors_actual
 
 	def initialize(filename = DefaultCardListName)
 		@cube = Cube.new(filename)
-
 	end
 
 	def get_metrics_hash
@@ -42,6 +44,7 @@ class MeteredCube
 			color_deltas[color] = @colors_actual[color].to_i - @color_targets[color].to_i
 		end
 		color_deltas["Total"] = color_deltas.values.reduce(0, :+)
+		binding.pry
 		color_deltas
 	end
 
