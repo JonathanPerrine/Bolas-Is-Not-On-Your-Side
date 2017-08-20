@@ -43,8 +43,12 @@ class MeteredCube
 		['White', 'Blue', 'Black', 'Red', 'Green', 'Gold', 'Colorless'].each do |color|
 			color_deltas[color] = @colors_actual[color].to_i - @color_targets[color].to_i
 		end
-		color_deltas["Total"] = color_deltas.values.reduce(0, :+)
+		color_deltas["Total"] = show_color_balance_total
 		color_deltas
+	end
+
+	def show_color_balance_total
+		@colors_actual.values.reduce(0, :+)
 	end
 
 	def show_duplicate_count

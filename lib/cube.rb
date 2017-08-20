@@ -15,7 +15,6 @@ class Cube
 	end
 
 	def load_decklist_from_text (filename)
-		puts filename
 		cardlist = File.open(filename, "r").read
 		card_array = []
 		card_count_hash = {}
@@ -31,20 +30,23 @@ class Cube
 		card_detail_hash = {}
 		card_array.each_slice(100) do |cards|
 			MTG::Card.where(name: cards.join("|")).all.each do |card|
-				count = card_count_hash[card.name].to_i
+				if card_detail_hash[card.name].nil?
+					count = card_count_hash[card.name].to_i
 
-				card_hash = {color: map_colors(card.colors),
-							type: card.type,
-							mana_cost: card.mana_cost,
-							cmc: card.cmc,
-							count: count
-						}
-				card_detail_hash[card.name] = card_hash
+					card_hash = {color: map_colors(card.colors),
+								type: card.type,
+								mana_cost: card.mana_cost,
+								cmc: card.cmc,
+								count: count
+							}
+					card_detail_hash[card.name] = card_hash
 
-				card_color_hash[card_hash[:color]] += count
-				cc_hash[card.mana_cost] ? cc_hash[card.mana_cost] += count : cc_hash[card.mana_cost] = count
+					# puts "Adding " + count.to_s + " cards to " + card_hash[:color].to_s + "(" + card.name  + ""
+					card_color_hash[card_hash[:color]] += count
+					cc_hash[card.mana_cost] ? cc_hash[card.mana_cost] += count : cc_hash[card.mana_cost] = count
 
-				cc_hash[card.cmc] ? cc_hash[card.cmc] += count : cc_hash[card.cmc] = count
+					cc_hash[card.cmc] ? cc_hash[card.cmc] += count : cc_hash[card.cmc] = count
+				end
 			end
 		end
 
@@ -81,7 +83,7 @@ class Cube
 	def list_duplicates
 		duplicate_list = []
 		@card_detail_hash.each do |key, value|
-			duplicate_list.push value[:count].to_s +  ' ' + key + '\n' if value[:count].to_i > 1
+			duplicate_list.push value[:count].to_s +  ' ' + key + "\n" if value[:count].to_i > 1
 		end
 
 		duplicate_list.push 'No duplicates found.' if duplicate_list.empty?

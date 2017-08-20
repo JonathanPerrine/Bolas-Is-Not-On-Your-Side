@@ -26,7 +26,6 @@ describe Cube do
 	describe "#new" do
 		it "is a Cube" do
 			expect(@cube.instance_of? Cube).to be true
-			puts @cube.card_detail_hash[0]
 		end
 	end
 
@@ -41,9 +40,9 @@ describe Cube do
 			expect(@cube.list_duplicates).to eq('No duplicates found.')
 		end
 		it "Should display duplicate cards" do
-			duplicate_card = @cube.card_detail_hash[0]
-			@cube.card_detail_hash[0][:count] = 4
-			expect(@cube.list_duplicates).to eq('4' + duplicate_card.name)
+			duplicate_card = @cube.card_detail_hash['Abrade']
+			@cube.card_detail_hash['Abrade'][:count] = 4
+			expect(@cube.list_duplicates).to eq("4 Abrade\n")
 		end
 
 	end
