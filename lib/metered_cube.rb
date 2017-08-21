@@ -18,10 +18,20 @@ class MeteredCube
 		@cube = Cube.new(filename)
 	end
 
-	def get_metrics_hash
-		cb = show_color_balance
-		dc = show_duplicate_count
-		metrics_hash = { "Color Balance" => cb, "Duplicate Count" => dc }
+	def display_cube_metrics
+		color_deltas = show_color_balance
+		@colors_actual
+
+
+		puts "Cube Color Balance\n"
+		@color_targets.keys.each do |color|
+			puts "[#{@colors_actual[color]}/#{@color_targets[color.to_s]}] #{color} cards (#{color_deltas[color.to_s]})\n"
+		end
+
+		puts "\nDuplicate Count:\n"
+		puts show_duplicate_count
+		puts "\nDuplicate Cards:\n"
+		puts @cube.show_duplicates(@cube.card_detail_hash)
 	end
 
 	def set_color_targets(targets)
@@ -30,11 +40,7 @@ class MeteredCube
 	end
 
 	def measure_color_balance
-		colors_actual = {}
-		['White', 'Blue', 'Black', 'Red', 'Green', 'Gold','Colorless'].each do |color|
-			colors_actual[color] = @cube.count_color(color)
-		end
-		colors_actual
+		@cube.generate_card_color_hash(@cube.card_detail_hash)
 	end
 
 	def show_color_balance
@@ -52,7 +58,7 @@ class MeteredCube
 	end
 
 	def show_duplicate_count
-		@cube.count_duplicates
+		@cube.count_duplicates(@cube.card_detail_hash)
 	end
 
 
