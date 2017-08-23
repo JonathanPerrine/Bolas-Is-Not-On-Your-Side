@@ -16,7 +16,7 @@
 3 Bitterbow Sharpshooters
 1 Blazing Volley
 2 Bloodlust Inciter
-1 Bloodwater Entity
+2 Bloodwater Entity
 2 Blur of Blades
 1 Bone Picker
 3 Bontu's Last Reckoning
@@ -197,6 +197,7 @@
 1 Shadowstorm Vizier
 4 Shed Weakness
 1 Shefet Monitor
+1 Shimmerscale Drake
 1 Sidewinder Naga
 1 Sifter Wurm
 1 Solemnity
