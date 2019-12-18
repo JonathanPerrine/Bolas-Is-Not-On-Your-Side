@@ -1,248 +1,450 @@
-2 Abrade
-2 Accursed Horde
-2 Act of Heroism
-1 Adorned Pouncer
-1 Ancient Crab
-1 Anointed Procession
-3 Anointer Priest
-2 Aven Initiate
-1 Aven of Enduring Hope
-3 Aven Reedstalker
-1 Aven Wind Guide
-2 Baleful Ammit
-1 Banewhip Punisher
-1 Binding Mummy
-1 Bitterblade Warrior
-3 Bitterbow Sharpshooters
-1 Blazing Volley
-2 Bloodlust Inciter
-1 Bloodwater Entity
-2 Blur of Blades
-1 Bone Picker
-3 Bontu's Last Reckoning
-2 Bontu's Monument
-1 Brute Strength
-1 Burning-Fist Minotaur
-2 By Force
-2 Cancel
-2 Carrion Screecher
-1 Cartouche of Ambition
-1 Cartouche of Knowledge
-1 Cartouche of Solidarity
-3 Cartouche of Strength
-3 Cartouche of Zeal
-1 Censor
-1 Chandra's Defeat
-1 Channeler Initiate
-1 Chaos Maw
-1 Claim
-2 Colossapede
-1 Compelling Argument
-1 Compulsory Rest
-1 Consign
-1 Consuming Fervor
-2 Countervailing Winds
-2 Cradle of the Accursed
-3 Crash Through
-1 Crypt of the Eternals
-1 Cunning Survivor
-2 Curator of Mysteries
-3 Cursed Minotaur
-1 Dagger of the Worthy
-1 Dauntless Aven
-1 Decimator Beetle
-2 Decision Paralysis
-2 Deem Worthy
-2 Defiant Khenra
-1 Desert
-2 Desert Cerodon
-2 Desert of the Fervent
-2 Desert of the Glorified
-4 Desert of the Mindful
-2 Desert of the True
-1 Desert's Hold
-2 Devoted Crop-Mate
-2 Disposal Mummy
-3 Dissenter's Deliverance
-1 Djeru's Resolve
-2 Doomed Dissenter
-1 Drake Haven
-1 Driven
-1 Dune Beetle
-1 Dune Diviner
-1 Dutiful Servants
-1 Edifice of Authority
-1 Emberhorn Minotaur
-1 Enigma Drake
-1 Essence Scatter
-2 Eternal of Harsh Truths
-3 Evolving Wilds
-1 Fan Bearer
-3 Feral Prowler
-1 Fervent Paincaster
-1 Festering Mummy
-2 Final Reward
-2 Firebrand Archer
-3 Fling
-1 Floodwaters
-2 Forsake the Worldly
-2 Frontline Devastator
-1 Galestrike
-1 Gate to the Afterlife
-2 Giant Spider
-1 Gideon of the Trials
-2 Gideon's Defeat
-2 Gift of Paradise
-4 Gift of Strength
-2 Gilded Cerodon
-2 Glyph Keeper
-2 God-Pharaoh's Faithful
-2 Granitic Titan
-2 Grasping Dunes
-1 Gravedigger
-2 Greater Sandwurm
-2 Grim Strider
-1 Gust Walker
-1 Hapatra's Mark
-1 Harrier Naga
-1 Hashep Oasis
-1 Hazoret's Monument
-1 Heaven
-1 Hekma Sentinels
-2 Hieroglyphic Illumination
-1 Hollow One
-2 Honed Khopesh
-1 Honored Hydra
-3 Hooded Brawler
-2 Horror of the Broken Lands
-1 Hour of Devastation
-1 Hour of Revelation
-3 Hyena Pack
-2 Ifnir Deadlands
-2 Illusory Wrappings
-2 Imaginary Threats
-2 Impeccable Timing
-2 In Oketra's Name
-1 Inferno Jet
-1 Kefnet's Last Word
-1 Khenra Charioteer
-1 Khenra Eternal
-2 Khenra Scrapper
-2 Kindled Fury
-2 Lethal Sting
-1 Lay Claim
-1 Life Goes On
-1 Liliana's Mastery
-1 Liliana, Death's Majesty
-1 Limits of Solidarity
-1 Lurching Rotbeast
-2 Luxa River Shrine
-3 Magma Spray
-1 Magmaroth
-3 Manalith
-2 Manticore of the Gauntlet
-2 Marauding Boneslasher
-1 Miasmic Mummy
-1 Mighty Leap
-2 Minotaur Sureshot
-1 Moaning Wall
-1 Mouth
-1 Mummy Paramount
-2 Naga Oracle
-2 Nef-Crop Entangler
-1 New Perspectives
-2 Nimble-Blade Khenra
-1 Nissa's Defeat
-1 Oashra Cultivator
-3 Oasis Ritualist
-1 Oketra's Avenger
-1 Ominous Sphinx
-1 Onward
-2 Open Fire
-1 Ornery Kudu
-1 Painful Lesson
-3 Painted Bluffs
-1 Pathmaker Initiate
-2 Plague Belcher
-3 Pouncing Cheetah
-1 Prepare
-1 Pride Sovereign
-1 Proven Combatant
-1 Pull from Tomorrow
-3 Puncturing Blow
-1 Quarry Hauler
-1 Rampaging Hippo
-1 Ramunap Hydra
-1 Ramunap Ruins
-1 Razaketh's Rite
-1 Reduce
-1 Regal Caracal
-1 Renewed Faith
-1 Rhet-Crop Spearmaster
-2 Rhonas's Monument
-3 Rhonas's Stalwart
-2 River Serpent
-2 Ruin Rat
-1 Ruthless Sniper
-2 Sacred Cat
-3 Sandblast
-1 Sandwurm Convergence
-1 Saving Grace
-1 Scaled Behemoth
-2 Scarab Feast
-1 Scouring Sands
-3 Scribe of the Mindful
-3 Scrounger of Souls
-2 Seer of the Last Tomorrow
-1 Shadowstorm Vizier
-4 Shed Weakness
-1 Shefet Monitor
-1 Sidewinder Naga
-1 Sifter Wurm
-1 Solemnity
-2 Solitary Camel
-3 Soulstinger
-1 Sparring Mummy
-1 Spellweaver Eternal
-1 Splendid Agony
-2 Spring
-1 Steward of Solidarity
-2 Stinging Shot
-1 Stir the Sands
-2 Strategic Planning
-1 Struggle
-1 Sunscourge Champion
-1 Sunset Pyramid
-2 Supernatural Stamina
-1 Supply Caravan
-1 Survivors' Encampment
-2 Tah-Crop Elite
-2 Tah-Crop Skirmisher
-1 The Locust God
-2 Thorned Moloch
-1 Thresher Lizard
-3 Torment of Scarabs
-1 Tormenting Voice
-3 Tragic Lesson
-1 Traveler's Amulet
-1 Trespasser's Curse
-2 Trial of Ambition
-1 Trial of Knowledge
-1 Trial of Solidarity
-1 Trial of Strength
-1 Trial of Zeal
-1 Trueheart Duelist
-2 Unburden
-1 Unconventional Tactics
-1 Unquenchable Thirst
-4 Unsummon
-2 Violent Impact
-2 Wander in Death
-1 Warfire Javelineer
-1 Watchful Naga
-1 Wayward Servant
-1 Wildfire Eternal
-2 Winds of Rebuke
-2 Winged Shepherd
-4 Without Weakness
-4 Wretched Camel
+Haazda Marshal
+Trained Caracal
+Twilight Panther
+Boros Mastiff
+Bounty Agent
+Concordia Pegasus
+Hero of Precinct One
+Impassioned Orator
+Basilica Guards
+Court Street Denizen
+Forbidding Spirit
+Haazda Officer
+Ministrant of Obligation
+Seller of Songbirds
+Tenth District Veteran
+Parhelion Patrol
+Spirit of the Spires
+Syndicate Messenger
+Zarichi Tiger
+Conclave Phalanx
+Dromad Purebred
+Venerated Loxodon
+Angelic Skirmisher
+Archway Angel
+Loxodon Restorer
+Oathsworn Giant
+Arrester's Zeal
+Take Heart
+Summary Judgment
+Expose to Daylight
+Riot Control
+Rootborn Defenses
+Bring to Trial
+Sworn Companions
+Demotion
+Sky Tether
+Blind Obedience
+Dawn of Hope
+Luminous Bonds
+Angelic Exaltation
+Faith's Fetters
+Holy Mantle
+Smothering Tithe
+Grayscaled Gharial
+Pteramander
+Thoughtbound Phantasm
+Faerie Duelist
+Nightveil Sprite
+Persistent Petitioners
+Vertigo Spawn
+Dimir Informant
+Hover Barrier
+Sage's Row Denizen
+Senate Courier
+Stealer of Secrets
+Vigean Graftmage
+Murmuring Mystic
+Muse Drake
+Skatewing Spy
+Thunder Drake
+Vedalken Entrancer
+Belltower Sphinx
+Chillbringer
+Mesmerizing Benthid
+Windstorm Drake
+Aetherling
+Citywatch Sphinx
+Dream Eater
+Isperia's Skywatch
+Novijen Sages
+Tidespout Tyrant
+Blustersquall
+Dazzling Lights
+Downsize
+Gigadrowse
+Cyclonic Rift
+Essence Capture
+Radical Idea
+Spell Rupture
+Unexplained Disappearance
+Arrester's Admonition
+Thought Collapse
+Thunderheads
+Chemister's Insight
+Precognitive Perception
+Repeal
+Hidden Strings
+Train of Thought
+Vacuumelt
+Selective Snare
+Runner's Bane
+Infiltrator's Magemark
+Verity Circle
+Stasis Cell
+Drainpipe Vermin
+Gutterbones
+Burglar Rat
+Child of Night
+Gutter Skulk
+Pack Rat
+Whispering Snitch
+Wight of Precinct Six
+Abyssal Nocturnus
+Blood Operative
+Midnight Reaper
+Plaguecrafter
+Slate Street Ruffian
+Stinkweed Imp
+Vesper Ghoul
+Syndicate Enforcer
+Undercity Necrolisk
+Undercity Scavenger
+Vindictive Vampire
+Blade Juggler
+Doom Whisperer
+Ogre Slumlord
+Orzhov Racketeers
+Woebringer Demon
+Helldozer
+Necropolis Regent
+Netherborn Phalanx
+Pontiff of Blight
+Ratcatcher
+Lotleth Giant
+Last Gasp
+Ultimate Price
+Price of Fame
+Clear the Stage
+Dead Revels
+Midnight Recovery
+Vigor Mortis
+Brainspoil
+Bond of Agony
+Dead Weight
+Sinister Possession
+Dying Wish
+Necromancer's Magemark
+Stab Wound
+Ill-Gotten Inheritance
+Necromantic Thirst
+Grave Betrayal
+Foundry Street Denizen
+Goblin Banneret
+Spear Spewer
+Tin Street Dodger
+War-Torch Goblin
+Gravel-Hide Goblin
+Ornery Goblin
+Skinbrand Goblin
+Smelt-Ward Ignus
+Bloodscale Prowler
+Guttersnipe
+Krenko, Tin Street Kingpin
+Legion Warboss
+Splatter Thug
+Viashino Racketeer
+Amplifire
+Bloodfray Giant
+Dagger Caster
+Ghor-Clan Wrecker
+Rubblebelt Maaka
+Smelt-Ward Gatekeepers
+Spikewheel Acrobat
+Barging Sergeant
+Ogre Savant
+Whiptail Moloch
+Coalhauler Swine
+Tenement Crasher
+Minotaur Aggressor
+Dynacharge
+Electrickery
+Furious Resistance
+Surge of Zeal
+Weapon Surge
+Fiery Conclusion
+Reroute
+Annihilating Fire
+Massive Raid
+Cleansing Beam
+Deface
+Maximize Velocity
+Shattering Spree
+Act of Treason
+Gates Ablaze
+Goblin Gathering
+Incite Hysteria
+Light Up the Stage
+Skewer the Critics
+Cosmotronic Wave
+Flame Fusillade
+Goblin Rally
+Blockbuster
+Portcullis Vine
+Wasteland Viper
+Gatecreeper Vine
+Grappling Sundew
+Gyre Sage
+Incubation Druid
+Ironshell Beetle
+Sauroform Hybrid
+Silhana Wayfinder
+Vinelasher Kudzu
+Axebane Guardian
+District Guide
+Gatebreaker Ram
+Golgari Brownscale
+Silhana Starfletcher
+Steeple Creeper
+Cytoplast Root-Kin
+Deadbridge Goliath
+Greater Mossdog
+Ivy Lane Denizen
+Saruli Gatekeepers
+Simic Ragworm
+Thrashing Mossdog
+Biogenic Ooze
+Mammoth Spider
+Rampaging Rendhorn
+Trollbred Guardian
+Archweaver
+Siege Wurm
+Wrecking Beast
+End-Raze Forerunners
+Arboretum Elemental
+Gather Courage
+Stony Strength
+Druid's Deliverance
+Scatter the Seeds
+Open the Gates
+Prey Upon
+Farseek
+Life from the Loam
+Phytoburst
+Sprouting Renewal
+Circuitous Route
+Biogenic Upgrade
+Overwhelm
+Fists of Ironwood
+Guardian Project
+Wilderness Reclamation
+Death's Presence
+Azorius First-Wing
+Senate Guildmage
+Deputy of Detention
+Minister of Impediments
+Senate Griffin
+Azor's Elocutors
+Azorius Knight-Arbiter
+Isperia the Inscrutable
+Jelenn Sphinx
+Azorius Skyguard
+Isperia, Supreme Judge
+Archon of the Triumvirate
+Dovin, Architect of Law
+Depose // Deploy
+Protect // Serve
+Warrant // Warden
+Absorb
+Detention Sphere
+Dovin's Acuity
+High Alert
+Lawmage's Binding
+Dovescape
+Dimir Spybug
+Duskmantle Guildmage
+Deathcult Rogue
+Dimir Doppelganger
+Nightveil Specter
+Whisper Agent
+Circu, Dimir Lobotomist
+Consuming Aberration
+Far // Away
+Paranoid Delusions
+Disinformation Campaign
+Footlight Fiend
+Rakdos Cackler
+Fireblade Artist
+Gobhobbler Rats
+Rakdos Guildmage
+Spike Jester
+Cryptborn Horror
+Hackrobat
+Exava, Rakdos Blood Witch
+Hellhole Rats
+Rakdos Firewheeler
+Spawn of Rix Maadi
+Bedeck // Bedazzle
+Auger Spree
+Showstopper
+Dreadbore
+Morgue Burst
+Captive Audience
+Scab-Clan Mauler
+Zhur-Taa Goblin
+Feral Animist
+Frenzied Arynx
+Bolrac-Clan Crusher
+Streetbreaker Wurm
+Ravager Wurm
+Ruric Thar, the Unbowed
+Gruul Ragebeast
+Domri Rade
+Collision // Colossus
+Pit Fight
+Thrash // Threat
+Savage Smash
+Rhythm of the Wild
+Dryad Militant
+Selesnya Evangel
+Selesnya Guildmage
+Vitu-Ghazi Guildmage
+Voice of Resurgence
+Centaur Safeguard
+Loxodon Smiter
+Wayfaring Temple
+Conclave Cavalier
+Armada Wurm
+Tolsimir Wolfblood
+Emmara Tandris
+Assure
+Sundering Growth
+Advent of the Wurm
+Alive // Well
+Flower
+Camaraderie
+Growing Ranks
+Collective Blessing
+Pollenbright Wings
+Cartel Aristocrat
+Imperious Oligarch
+Orzhov Guildmage
+Tithe Drinker
+Souls of the Faultless
+Vizkopa Vampire
+Blind Hunter
+Grasping Thrull
+Obzedat, Ghost Council
+Final Payment
+Mortify
+Revival // Revenge
+Kaya's Wrath
+Immortal Servitude
+Gift of Orzhova
+Ethereal Absolution
+Debtors' Knell
+Deathrite Shaman
+Slitherhead
+Pitiless Gorgon
+Shambling Shell
+Varolz, the Scar-Striped
+Corpsejack Menace
+Golgari Findbroker
+Jarad, Golgari Lich Lord
+Rhizome Lurcher
+Rot Farm Skeleton
+Korozda Gorgon
+Underrealm Lich
+Gleancrawler
+Molderhulk
+Putrefy
+Drown in Filth
+Find
+Undercity Uprising
+Rites of Reaping
+Combine Guildmage
+Simic Guildmage
+Gyre Engineer
+Fathom Mage
+Frilled Mystic
+Master Biomancer
+Prime Speaker Vannifar
+Sharktocrab
+Momir Vig, Simic Visionary
+Experiment Kraj
+Bioshift
+Growth Spiral
+Voidslime
+Plasm Capture
+Beamsplitter Mage
+Goblin Electromancer
+League Guildmage
+Gelectrode
+Nivix Cyclops
+Piston-Fist Cyclops
+Wee Dragonauts
+Crackling Drake
+Tibor and Lumia
+Melek, Izzet Paragon
+Niv-Mizzet, the Firemind
+Djinn Illuminatus
+Izzet Charm
+Leap of Flame
+Counterflux
+Electrolyze
+Essence Backlash
+Hypothesizzle
+Beacon Bolt
+Firemind's Research
+Boros Recruit
+Boros Challenger
+Boros Guildmage
+Truefire Paladin
+Wojek Halberdiers
+Boros Reckoner
+Skyknight Legionnaire
+Tajic, Legion's Edge
+Viashino Firstblade
+Truefire Captain
+Agrus Kos, Wojek Veteran
+Blaze Commando
+Lightning Helix
+Response
+Chance for Glory
+Sphinx of the Guildpact
+Civic Saber
+Dimir Signet
+Glass of the Guildpact
+Izzet Signet
+Orzhov Signet
+Rakdos Signet
+Simic Signet
+Azorius Locket
+Grifter's Blade
+Plague Boiler
+Azorius Guildgate
+Azorius Guildgate
+Boros Guildgate
+Boros Guildgate
+Dimir Guildgate
+Dimir Guildgate
+Duskmantle, House of Shadow
+Gateway Plaza
+Golgari Guildgate
+Golgari Guildgate
+Gruul Guildgate
+Gruul Guildgate
+Izzet Guildgate
+Izzet Guildgate
+Novijen, Heart of Progress
+Orzhov Guildgate
+Orzhov Guildgate
+Plaza of Harmony
+Rakdos Guildgate
+Rakdos Guildgate
+Selesnya Guildgate
+Selesnya Guildgate
+Simic Guildgate
+Simic Guildgate
+Skarrg, the Rage Pits
+Vitu-Ghazi, the City-Tree
